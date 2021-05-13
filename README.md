@@ -19,13 +19,13 @@
 
 ### Tech I use
 
-[<img  width="25" src="https://unpkg.com/simple-icons@v4/icons/c.svg" align="left" />] 
-[<img  width="25" src="https://simpleicons.org/icons/cplusplus.svg" align="left" />]
-[<img  width="25" src="https://simpleicons.org/icons/python.svg" align="left" />]
-[<img  width="25" src="https://simpleicons.org/icons/spyderide.svg" align="left" />]
-[<img  width="25" src="https://simpleicons.org/icons/visualstudiocode.svg" align="left" />]
-[<img  width="25" src="https://simpleicons.org/icons/pycharm.svg" align="left" />]
-[<img  width="25" src="https://simpleicons.org/icons/git.svg" align="left" />]
+<img  width="25" src="https://unpkg.com/simple-icons@v4/icons/c.svg" align="left" />
+<img  width="25" src="https://simpleicons.org/icons/cplusplus.svg" align="left" />
+<img  width="25" src="https://simpleicons.org/icons/python.svg" align="left" />]
+<img  width="25" src="https://simpleicons.org/icons/spyderide.svg" align="left" />
+<img  width="25" src="https://simpleicons.org/icons/visualstudiocode.svg" align="left" />
+<img  width="25" src="https://simpleicons.org/icons/pycharm.svg" align="left" />
+<img  width="25" src="https://simpleicons.org/icons/git.svg" align="left" />
 
 <br />
 
