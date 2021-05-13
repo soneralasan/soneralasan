@@ -27,12 +27,7 @@
 <img  width="25" src="https://simpleicons.org/icons/pycharm.svg" align="left" />
 <img  width="25" src="https://simpleicons.org/icons/git.svg" align="left" />
 
-<br />
 
-
-
-
-<br />
 
 <details>
 <summary>:bulb: Github Stats</summary>
